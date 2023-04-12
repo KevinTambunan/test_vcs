@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="node_type">interface</value>
+  <value name="node_subtype">unknown</value>
+  <value name="node_nsName">ist.los.ocr.services.utils.minio</value>
+  <value name="is_public">false</value>
+  <value name="encodeutf8">true</value>
+  <value name="shared">CXB1YmxpYyBzdGF0aWMgTWluaW9DbGllbnQgY2xpZW50OwoJcHVibGljIHN0YXRpYyB2b2lkIHVw
+bG9hZEZpbGUoU3RyaW5nIGJ1Y2tldE5hbWUsIFN0cmluZyBvcmlnaW5hbEZpbGVuYW1lLCBTdHJp
+bmcgbWltZVR5cGUsIGJ5dGVbXSBieXRlcykgdGhyb3dzIEludmFsaWRLZXlFeGNlcHRpb24sIEVy
+cm9yUmVzcG9uc2VFeGNlcHRpb24sIEluc3VmZmljaWVudERhdGFFeGNlcHRpb24sIEludGVybmFs
+RXhjZXB0aW9uLCBJbnZhbGlkUmVzcG9uc2VFeGNlcHRpb24sIE5vU3VjaEFsZ29yaXRobUV4Y2Vw
+dGlvbiwgU2VydmVyRXhjZXB0aW9uLCBYbWxQYXJzZXJFeGNlcHRpb24sIElsbGVnYWxBcmd1bWVu
+dEV4Y2VwdGlvbiwgSU9FeGNlcHRpb257CgkJaWYoIWNsaWVudC5idWNrZXRFeGlzdHMoQnVja2V0
+RXhpc3RzQXJncy5idWlsZGVyKCkuYnVja2V0KGJ1Y2tldE5hbWUpLmJ1aWxkKCkpKXsKCQkJY2xp
+ZW50Lm1ha2VCdWNrZXQoTWFrZUJ1Y2tldEFyZ3MuYnVpbGRlcigpLmJ1Y2tldChidWNrZXROYW1l
+KS5idWlsZCgpKTsKCQl9CgkJdHJ5KEJ5dGVBcnJheUlucHV0U3RyZWFtIGJhaXMgPSBuZXcgQnl0
+ZUFycmF5SW5wdXRTdHJlYW0oYnl0ZXMpKXsKCQkJY2xpZW50LnB1dE9iamVjdCgKCQkgCQkJUHV0
+T2JqZWN0QXJncwoJCQkJCQkuYnVpbGRlcigpCgkJCQkJCS5idWNrZXQoYnVja2V0TmFtZSkKCQkJ
+CQkJLm9iamVjdChvcmlnaW5hbEZpbGVuYW1lKQoJCQkJCQkuc3RyZWFtKGJhaXMsIGJhaXMuYXZh
+aWxhYmxlKCksIC0xKQoJCQkJCQkuY29udGVudFR5cGUobWltZVR5cGUpCgkJCQkJCS5idWlsZCgp
+CgkJCQkJKTsKCQl9Cgl9CgkKCXByaXZhdGUgc3RhdGljIE1pbmlvQ2xpZW50IG1pbmlvQ2xpZW50
+KFN0cmluZyBlbmRwb2ludCwgU3RyaW5nIGFjY2Vzc0tleSwgU3RyaW5nIHNlY3JldEtleSl7CgkJ
+TWluaW9DbGllbnQgbWluaW9DbGllbnQgPSAKCQkJCU1pbmlvQ2xpZW50LmJ1aWxkZXIoKQoJCQkJ
+CQkuZW5kcG9pbnQoZW5kcG9pbnQpCgkJCQkJCS5jcmVkZW50aWFscyhhY2Nlc3NLZXksIHNlY3Jl
+dEtleSkKCQkJCQkJLmh0dHBDbGllbnQob2tIdHRwQ2xpZW50KCkpCgkJCQkJCS5idWlsZCgpOwoJ
+CXJldHVybiBtaW5pb0NsaWVudDsKCQkJCQoJfQoJCglwcml2YXRlIHN0YXRpYyBPa0h0dHBDbGll
+bnQgb2tIdHRwQ2xpZW50KCl7CgkJT2tIdHRwQ2xpZW50LkJ1aWxkZXIgYnVpbGRlciA9IG5ldyBP
+a0h0dHBDbGllbnQuQnVpbGRlcigpOwoJCWJ1aWxkZXIuY29ubmVjdFRpbWVvdXQoMzAsIFRpbWVV
+bml0LlNFQ09ORFMpCgkJCQkucmVhZFRpbWVvdXQoMzAsIFRpbWVVbml0LlNFQ09ORFMpCgkJCQku
+d3JpdGVUaW1lb3V0KDMwLCBUaW1lVW5pdC5TRUNPTkRTKQoJCQkJLnJldHJ5T25Db25uZWN0aW9u
+RmFpbHVyZSh0cnVlKTsKCQlyZXR1cm4gYnVpbGRlci5idWlsZCgpOwoJfQoKCgk=</value>
+  <value name="extends"></value>
+  <array name="implements" type="value" depth="1">
+  </array>
+  <array name="imports" type="value" depth="1">
+    <value>com.wm.util.Debug</value>
+    <value>java.io.ByteArrayInputStream</value>
+    <value>java.io.IOException</value>
+    <value>java.nio.file.Files</value>
+    <value>java.nio.file.Path</value>
+    <value>java.nio.file.Paths</value>
+    <value>java.security.InvalidKeyException</value>
+    <value>java.security.NoSuchAlgorithmException</value>
+    <value>java.util.HashMap</value>
+    <value>java.util.List</value>
+    <value>java.util.Map</value>
+    <value>java.util.concurrent.TimeUnit</value>
+    <value>java.util.stream.Stream</value>
+    <value>io.minio.BucketExistsArgs</value>
+    <value>io.minio.MakeBucketArgs</value>
+    <value>io.minio.MinioClient</value>
+    <value>io.minio.PutObjectArgs</value>
+    <value>io.minio.errors.ErrorResponseException</value>
+    <value>io.minio.errors.InsufficientDataException</value>
+    <value>io.minio.errors.InternalException</value>
+    <value>io.minio.errors.InvalidResponseException</value>
+    <value>io.minio.errors.MinioException</value>
+    <value>io.minio.errors.ServerException</value>
+    <value>io.minio.errors.XmlParserException</value>
+    <value>io.minio.messages.Bucket</value>
+    <value>okhttp3.OkHttpClient</value>
+  </array>
+</Values>
